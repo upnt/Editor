@@ -1,0 +1,1 @@
+/usr/bin/clang++-16 -fPIC -g -shared -Wl,-soname,libbuffer.so -o libbuffer.so CMakeFiles/buffer.dir/buffer.cpp.o 

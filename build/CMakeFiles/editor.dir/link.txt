@@ -1,0 +1,1 @@
+/usr/bin/clang++-16 -g -rdynamic CMakeFiles/editor.dir/main.cpp.o -o editor  -Wl,-rpath,/home/upnt/workspace/editor/build/src/buffer src/buffer/libbuffer.so 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/upnt/workspace/editor/build",
+  "command": "/usr/bin/clang++-16  -I/home/upnt/workspace/editor/src/buffer/. -g -o CMakeFiles/editor.dir/main.cpp.o -c /home/upnt/workspace/editor/main.cpp",
+  "file": "/home/upnt/workspace/editor/main.cpp"
+},
+{
+  "directory": "/home/upnt/workspace/editor/build/src/buffer",
+  "command": "/usr/bin/clang++-16 -Dbuffer_EXPORTS -I/home/upnt/workspace/editor/src/buffer/. -g -fPIC -o CMakeFiles/buffer.dir/buffer.cpp.o -c /home/upnt/workspace/editor/src/buffer/buffer.cpp",
+  "file": "/home/upnt/workspace/editor/src/buffer/buffer.cpp"
+}
+]
